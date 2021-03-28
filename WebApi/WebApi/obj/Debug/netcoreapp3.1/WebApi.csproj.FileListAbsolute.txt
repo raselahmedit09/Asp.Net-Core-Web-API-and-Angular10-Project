@@ -1,0 +1,131 @@
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+F:\Study Project\User Registration with Asp.Net Core Web API and Angular\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+F:\Study Project\Asp.Net Core Web API and Angular10 Project\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache

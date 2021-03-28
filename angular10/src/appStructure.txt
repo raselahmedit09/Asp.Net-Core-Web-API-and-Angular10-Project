@@ -1,0 +1,11 @@
+├── src
+│   ├── app
+│   │   ├── user // ng generate component user --skipTests=true
+│   │   │   ├── components
+│   │   │   ├── registration   // ng generate component user/registration --skipTests=true
+│   │   │   │   ├── components
+│   │   ├── shared  // ng g s shared/user --skipTests=true      
+│   │   │   │   ├── user.service.ts
+│   │   ├── app.module.ts
+│   │   ├── app.routing.module.ts
+│   |── index.html
